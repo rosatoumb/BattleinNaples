@@ -1,4 +1,4 @@
-# BattleinNaples
+# Battle in Naples : IBM CAPSTONE PROJECT
 
 ## INTRO/ BUSINESS PROBLEMS
 
