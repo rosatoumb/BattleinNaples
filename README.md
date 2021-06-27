@@ -9,6 +9,6 @@ Thus, the goal I want to reach with this exercise is to give a simple recommenda
 ## Description of the data
 I will, as requested by the assignment task, use foursquare data about restaurants in Naples. I will use foursquare data such as the restaurant name, ID, location and category of food (vegetarian, Italian etc.).
 
-Also, I will use the overview of districts(or quarters)/city parts of Naples from Wikipedia: https://en.wikipedia.org/wiki/Quarters_of_Naple
+Also, I will use the overview of districts(or quarters)/city parts of Naples from Wikipedia: https://en.wikipedia.org/wiki/Quarters_of_Naples
 
 Here, you will find a table "Districts" which shows the nine city districts. I will use these districts and the data about restaurants in these districts from foursquare to show the density of restaurants in them.
